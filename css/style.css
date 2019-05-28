@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'Sahel-Black-FD';
+    src: url(fonts/Sahel-Black-FD.ttf);
+}
+
+body{
+    font-family: 'Sahel-Black-FD', sans-serif;
+}
+
+#indheader{
+    font-size: 18px;    
+}
+
+img{
+    border-radius: 70%;
+    border: solid gray;
+    width: 500px;
+    height:500px;
+}
